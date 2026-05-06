@@ -32,7 +32,7 @@ Essa decisão simplifica o fluxo sem comprometer a corretude do domínio, manten
 
 ## 4. Diagrama de Classes
 
-![Diagrama de Classes](docs/diagrama-classes.png)
+![Diagrama de Classes](prints/diagrama.png)
 
 ---
 
